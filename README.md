@@ -25,12 +25,12 @@ I'm passionate about solving real-world problems through intelligent automation 
 
 | Domain | Tools & Frameworks |
 |--------|---------------------|
-| Languages | Python, Java, SQL |
-| ML/DL | PyTorch, Scikit-learn, OpenCV |
-| Web/API | FastAPI, Django, REST |
+| Languages | Python, SQL |
+| ML/DL | PyTorch, Scikit-learn|
+| Web/API | FastAPI, REST |
 | Automation | n8n, GitHub Actions, Postman |
 | Deployment | Docker, Render, Hugging Face Spaces |
-| Database | PostgreSQL, SQLite |
+| Database | PostgreSQL|
 | Version Control | Git, GitHub |
 
 ---
@@ -90,5 +90,5 @@ I'm passionate about solving real-world problems through intelligent automation 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urvashi-pampaniya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urvashipampaniya&show_icons=true&theme=radical)
 
