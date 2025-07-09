@@ -86,7 +86,7 @@ I'm passionate about solving real-world problems through intelligent automation 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/urvashi-pampaniya/)  
 - 🧑‍💻 [GitHub](https://github.com/urvashi-pampaniya)  
-- 📫 Email: uravashipampaniya@email.com
+- 📫 Email: uravashipampaniya@gmail.com
 
 ---
 
